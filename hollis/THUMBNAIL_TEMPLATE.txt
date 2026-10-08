@@ -1,0 +1,16 @@
+HOLLIS HOLLER — ОФОРМЛЕНИЕ КАЖДОГО НОВОГО СЦЕНАРИЯ
+(утверждено 8 октября 2026, эталон — превью с пожаром Гатлинбурга)
+
+К каждому сценарию сразу выдаются:
+1. Два названия: основное (правило/запрет: «Never ... », «If you ... don't ...») и альтернативное (сцена/интрига). До ~70 символов, только факты из сценария.
+2. Один промпт обложки для Nano Banana в стиле ниже. Без текста на картинке.
+
+СТИЛЬ ОБЛОЖКИ
+- Справа крупно (50-60% кадра, лицо в правой трети): вымышленный пожилой житель Аппалачей 70+ — длинная седая борода, морщинистое лицо, старая фетровая шляпа, красная фланелевая рубашка, джинсовый комбинезон. Лицо резкое, ярко освещено источником опасности. Испуганный взгляд вбок/через плечо, рот приоткрыт.
+- Слева на заднем плане, в лёгком размытии: угроза из истории, яркая и узнаваемая в миниатюре (огонь, светящиеся глаза, шары света, силуэт, туман и т.п.).
+- Контраст: холодная сине-бирюзовая ночь + один тёплый/яркий акцент от угрозы.
+- Никаких реальных лиц жертв, никакой крови и тел.
+- Правый нижний угол без важных деталей (там хронометраж).
+
+ШАБЛОН ПРОМПТА
+A YouTube thumbnail, 16:9. Close-up portrait on the right side of the frame: an old Appalachian man in his seventies with a long gray beard, weathered deeply wrinkled face, worn brown felt hat, red plaid flannel shirt and denim overalls, his face strongly lit by [ИСТОЧНИК СВЕТА] from one side, wide frightened eyes looking [КУДА], mouth slightly open. In the slightly blurred background on the left, [УГРОЗА — конкретная сцена из истории]. Cold blue-teal night tones mixed with intense [ЦВЕТ АКЦЕНТА] glow. Shallow depth of field, the man is razor sharp, the background soft but bright and clearly readable. Photorealistic, cinematic, dramatic, very high contrast, simple composition. No text.
