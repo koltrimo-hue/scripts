@@ -12,5 +12,7 @@ HOLLIS HOLLER — ОФОРМЛЕНИЕ КАЖДОГО НОВОГО СЦЕНАР�
 - Никаких реальных лиц жертв, никакой крови и тел.
 - Правый нижний угол без важных деталей (там хронометраж).
 
-ШАБЛОН ПРОМПТА
+ШАБЛОН ПРОМПТА (пользователь прикладывает референс лица — блок идентичности ставится первым)
+Use the attached reference image as the main character. Keep his face exactly the same as in the reference: identical facial features, eyes, nose, wrinkles, skin texture, gray beard and long gray hair, same age, same brown felt hat and red plaid flannel shirt with denim overalls. Do not change his identity, face shape or proportions.
+
 A YouTube thumbnail, 16:9. Close-up portrait on the right side of the frame: an old Appalachian man in his seventies with a long gray beard, weathered deeply wrinkled face, worn brown felt hat, red plaid flannel shirt and denim overalls, his face strongly lit by [ИСТОЧНИК СВЕТА] from one side, wide frightened eyes looking [КУДА], mouth slightly open. In the slightly blurred background on the left, [УГРОЗА — конкретная сцена из истории]. Cold blue-teal night tones mixed with intense [ЦВЕТ АКЦЕНТА] glow. Shallow depth of field, the man is razor sharp, the background soft but bright and clearly readable. Photorealistic, cinematic, dramatic, very high contrast, simple composition. No text.
